@@ -10,7 +10,6 @@ environment:
     # Note: 'default' toolchain is the same as 'vs-14-2015'
 
     # Note: MSCV < 2015 is not supported
-
     #- TOOLCHAIN: "ninja-vs-12-2013-win64"
     #  PROJECT_DIR: examples\inja
 
