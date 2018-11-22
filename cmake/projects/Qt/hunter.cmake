@@ -231,6 +231,17 @@ hunter_add_version(
     PACKAGE_NAME
     Qt
     VERSION
+    "5.9.7"
+    URL
+    "https://download.qt.io/official_releases/qt/5.9/5.9.7/single/qt-everywhere-opensource-src-5.9.7.tar.xz"
+    SHA1
+    3ad762cbf433bb14bcb1095339d5bfd8722e2ae0
+)
+
+hunter_add_version(
+    PACKAGE_NAME
+    Qt
+    VERSION
     "5.10.1"
     URL
     "http://download.qt.io/official_releases/qt/5.10/5.10.1/single/qt-everywhere-src-5.10.1.tar.xz"
